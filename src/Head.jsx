@@ -12,7 +12,7 @@ const [sideNav, setSideNav]= useState(false)
           <Link index to="/" className="logo">Hommy <span className="logo2">Food</span></Link>
 
         {/* <nav className={!sideNav? "nava": "navb submenub hbb"} onClick={setSideNav(!sideNav)} > */}
-       <nav className= {sideNav? "nava" :"nav"} onClick={()=>setSideNav(false)}>
+       <nav className= {sideNav? "nava" :"nav"} onClick={()=>setSideNav(true)}>
        {/* <nav className="nav"> */}
             <NavLink to="/" className="submenu">Home</NavLink>
             <NavLink to="/about" className="submenu">About</NavLink>
@@ -22,7 +22,7 @@ const [sideNav, setSideNav]= useState(false)
         <div className="icons" > 
        
        {!sideNav? <div className="hb" onClick={()=>(setSideNav(!sideNav))} ><GiHamburgerMenu size={40}/>
-        </div> : <div className="cross" onClick={()=>(setSideNav(!sideNav))}> <RxCross1 size={40} /></div>}
+        </div> : <div className="hb" onClick={()=>(setSideNav(!sideNav))}> <RxCross1 size={40} /></div>}
        
        </div>
 

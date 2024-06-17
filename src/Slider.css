@@ -1,0 +1,161 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.mains{
+    border: 2px solid black;
+    position:static;
+    border-radius: 10px;
+    /* As parent purpose we take this after remove color */
+    height: 70vh;
+    width: 80%;
+/* filter: brightness(100%); */
+margin:70px  auto;
+
+
+}
+/* .mains:hover{
+   
+   
+    height: 70vh;
+    width: 80%;
+filter: brightness(90%);
+margin: auto;
+    
+} */
+
+.slider-img{
+  
+    width: 100%;
+    height: 70vh;
+    /* background-color: green; */
+   
+    /* position: relative; */
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+}
+.btn{
+    width: 80%;
+    height: 45vh;
+    position: absolute;
+    bottom: 0px;
+    display: flex;
+   justify-content: space-between;
+   color:#b2bec3;
+    /* color: rgb(236, 30, 30); */
+    /* margin-top: 70px; */
+    /* gap:80px; */
+}
+
+.hidden{
+    display: none;
+   
+}
+.right{
+    cursor: pointer;
+   /* justify-content: space-around; */
+}
+.left{
+    cursor: pointer;
+}
+.decorate{
+    font-size: 26px;
+    color:white;
+    /* color: #e17055; */
+    font-weight: bolder;
+    letter-spacing: 12px;
+    word-spacing: 14px;
+    opacity: 1;
+    z-index: 0;
+    text-shadow: 4px 4px 8px rgb(250, 214, 9);
+}
+@media screen and (max-width:2560px) {
+    .mains{
+        top:175px;
+    }
+    
+}
+@media screen and (max-width:1318px) {
+    .decorate{
+        font-size: 22px;
+        letter-spacing: 8px;
+        word-spacing: 10px;
+    }
+}
+@media screen and (max-width:1230px) {
+    .decorate{
+        font-size: 18px;
+    }
+}
+@media screen and (max-width:1134px) {
+    .decorate{
+        font-size:16px;
+    }
+}
+@media screen and (max-width:1091px) {
+    .decorate{
+        font-size: 18px;
+    }
+}
+@media screen and (max-width:1001px) {
+    .decorate{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width:967px) {
+    .decorate{
+        font-size: 16px;
+    }
+}
+@media screen and (max-width:877px) {
+    .decorate{
+        font-size: 14px;
+        letter-spacing: 4px;
+    }
+}
+@media screen and (max-width:499px) {
+    
+    .decorate{
+        font-size: 17px;
+        letter-spacing: 1px;
+    word-spacing: 3px;
+    }
+}
+@media screen and (max-width:600px) {
+    .decorate{
+        font-size: 14px;
+        word-spacing: 4px;
+        letter-spacing: 1px;
+    }
+}
+@media screen and (max-width:450px) {
+    .decorate{
+        font-size: 10px;
+        word-spacing: 2px;
+        letter-spacing: 0px;
+    }
+}
+@media screen and (max-width:768px)  {
+    .decorate{
+        font-size:14px ;
+        word-spacing: 2px;
+    }
+}
+@media screen and (max-width:375px) {
+    .decorate{
+        font-size: 12px;
+        word-spacing: 0;
+        letter-spacing: 0;
+    }
+    
+}
+@media screen and (max-width:330px) {
+    
+    .decorate{
+        font-size: 10px;
+       
+    }
+}
+

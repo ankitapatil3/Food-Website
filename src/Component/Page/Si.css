@@ -1,0 +1,137 @@
+*{
+    padding: 0px;
+    margin: 0;
+    box-sizing: border-box;
+}
+.ce{
+    color:red;
+}
+.scontainer{
+    position: relative;
+   
+    top: 70px;
+    /* border: 2px solid darkblue; */
+    width: 80%;
+   margin: auto;
+    display: grid;
+  grid-template-columns: 500px 500px;
+ /* justify-content: space-evenly; */
+ column-gap: 50px;
+ height: 95vh;
+ background-color: #ecf0f1;
+}
+
+.containersign{
+    position: relative;
+  align-content: center;
+    padding-left:35px;
+    height: 88vh;
+   top: 15px;
+    /* margin: auto; */
+    width: 100%;
+    /* background-color: darkgoldenrod; */
+    background-color: #ecf0f1;
+  
+   
+}
+
+.csignright{
+    max-width: 80%;
+    font-size: 18px;
+padding-left: 30px;
+background-color: #dcdde1;
+border-radius: 10px;
+}
+@media screen and (max-width:1198px) {
+   
+   .scontainer{
+    grid-template-columns: 400px 400px;
+   }
+   
+}
+@media screen and (max-width:960px) {
+    .scontainer{
+        grid-template-columns: 300px 400px;
+       }
+    
+ }
+ @media screen and (max-width:840px) {
+    .scontainer{
+        grid-template-columns: 300px 320px;
+       }
+    
+ }
+ @media screen and (max-width:760px) {
+    .scontainer{
+        grid-template-columns: 230px 320px;
+        
+       }
+    
+ }
+ @media screen and (max-width:670px) {
+    .scontainer{
+        grid-template-columns: 200px 270px;
+       }
+    
+ }
+  @media screen and (max-width:590px) {
+    .scontainer{
+        grid-template-columns: 150px 250px;
+        column-gap: 20px;
+       }
+    
+ }
+ @media screen and (max-width:506px) {
+    .scontainer{
+        grid-template-columns: 130px 200px;
+        column-gap: 20px;
+       }
+    
+ }  
+ @media screen and (max-width:560px) {
+    .headsign{
+        font-size: 19px;
+     } 
+     .containersign{
+        height: 90vh;
+     }
+ }
+ @media screen and (max-width:390px) {
+    .scontainer{
+        grid-template-columns: 100px 170px;
+        column-gap: 15px;
+       }
+      
+ }
+
+
+/* .labelname{
+
+    background-color: wheat;
+} */
+.signpara{
+    position: relative;
+   
+    /* top:30%; */
+    font-size: 20px;
+    line-height: 30px;
+}
+.btnsign{
+    font-size: 16px;
+    padding: 10px 24px;
+    background-color:#30336b ;
+    color: white;
+    font-weight: bold;
+    width: 80%;
+}
+.btnsign:hover{
+    background-color: white;
+    color:#30336b;
+}
+.fields{
+    height: 25px;
+    margin-top: 4px;
+    width: 80%;
+    font-size: 16px;
+}
+

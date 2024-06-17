@@ -1,0 +1,69 @@
+[{"id":1,
+"name":"Matar Paneer",
+"price":120,
+"img" :"https://m.media-amazon.com/images/I/71TOf5OlvKS.jpg"
+},
+{
+  "id": 2,
+  "name": "Chana Masala",
+  "price":90,
+  "img": "https://img.freepik.com/premium-photo/overhead-shot-chana-masala-little-pan-isolated-white-with-clipping-path_101296-677.jpg"
+},
+{
+    "id": 3,
+    "name": "Aloo Gobi",
+ "price":70,
+   
+    "img": "https://img.freepik.com/premium-photo/aloo-gobi-plate-white-background_894067-16668.jpg"
+},{
+    "id":4,
+    "price":60,
+    "name": "Mataki Rassa",
+    "img":"https://www.balancenutrition.in/images/receipe-img/1472807272_large.jpg"
+},
+{
+    "id":5,
+    "name": "Bhendi masala",
+    "price":60,
+    "img":"https://img.freepik.com/premium-photo/delicious-bhindi-masala-dish_893571-18776.jpg"
+},
+{
+    "id":6,
+    "name": "Koshimbir",
+    "price": 40,
+    "img": "https://img.freepik.com/photos-premium/kachumber-salade-verte-indienne-egalement-connue-sous-nom-koshimbir-servi-dans-bol-fond-mauvaise-humeur-mise-au-point-selective_466689-59708.jpg"
+    },
+    {
+    "id":7,
+    "name": "Mix Veg",
+    "price":170,
+    "img":"https://healux.in/wp-content/uploads/2020/11/MixedVegetableCurry.jpg"
+},{
+    "id":8,
+    "name": "Kaju Curry",
+    "price":180,
+    "img":"https://png.pngtree.com/png-clipart/20231115/original/pngtree-cassanat-nuts-and-coriander-in-a-steel-bowl-mixing-masala-recipe-png-image_13556674.png"
+},{
+    "id": 9,
+    "name":"Dal Tadaka",
+    "price":80,
+    "img":"https://saffronchronicles.wordpress.com/wp-content/uploads/2013/07/img_6845-002.jpg"
+},{
+    "id": 10,
+    "name":"Jeera Rice",
+    "price":80,
+    "img":"https://images-cdn.ubuy.co.in/636784ef611e07639b6c7a63-pride-of-india-extra-long-indian.jpg"
+},
+    {
+        "id": 11,
+        "name":"Veg Biryani",
+        "price":220,
+        "img":"https://media.istockphoto.com/id/178993688/photo/biryani-rice.jpg?s=612x612&w=0&k=20&c=jj25ifsZ_hyfuOW2IbGz_bSVpnZG8d2DYdmckcKCrYc="
+    },{
+        "id":12,
+        "name":"kothimbir Vadi",
+        "price":100,
+        "img": "https://content.instructables.com/FDF/3W5L/KZMPJIQ9/FDF3W5LKZMPJIQ9.jpg?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=150"
+    }
+
+]

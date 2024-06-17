@@ -1,0 +1,174 @@
+.aboutcontainer{
+    height: 120vh;
+    position: relative;
+    top:40px;
+}
+.abouthead{
+    color:#e17055;
+}
+.imgabout{
+    /* width: 100%; */
+ 
+    max-width: 700px;
+    height:500px;
+    right: 0;
+    position: relative;
+   width: 400px;
+}
+.aboutfirst{
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    top:30px;
+    background-color:#ecf0f1;
+    position: relative;
+
+}
+.aboutp1{
+    width: 50%;
+}
+.aboutp2{
+    max-width:60%;
+    /* margin: auto; */
+}
+.about{
+    height: 630px;
+    margin:auto;
+    width: 80%;
+    background-color: #ecf0f1;
+    top: 70px;
+    position: relative;
+    display: flex;
+    justify-content:space-between;
+   flex-wrap: wrap;
+    padding:20px;
+    position: relative;
+   /* border: 2px solid darkgoldenrod; */
+}
+.abouttwo{
+    margin: 5px;
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 10px;
+    position: relative;
+    
+}
+
+.about1 h1{
+    font-size: 24px;
+}
+
+.aboutspan{
+  
+    text-decoration: underline;
+    text-decoration-color: #e17055;
+}
+@media screen and (max-width:1024px) {
+    .about{
+        position: relative;
+        /* background-color: #e17055; */
+        height: 339px;
+        /* border: 2px solid black; */
+        padding: 10px;
+       
+    }
+   .abouttwo{
+    font-size: 18px;
+    height: 120px;
+    overflow: hidden;
+   }
+   .imgabout{
+    /* position: relative; */
+    /* top: -50px; */
+    height: 40px;
+   padding: 0;
+   margin: 0;
+   }
+   
+}
+ @media screen and (max-width:1044px) {
+  .about{
+    height:400px;
+  }
+    
+} 
+@media screen  and (max-width:1076px)
+{
+    .about{
+        position: relative;
+       height: 500px;
+    }
+    .aboutp1{
+        width: 90%;
+        margin: auto;
+    }
+    .aboutp2{
+        margin: auto;
+    }
+    .imgabout{
+        width: 250px;
+        height: 230px;
+    }
+    .abouttwo{
+        font-size: 12px;
+    }
+}
+
+
+@media screen and (max-width:1224px) {
+    .abouttwo{
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width:800px){
+    /* .abouttwo{
+        font-size: 15px;
+        
+    } */
+    .abouttwo{
+        height: 168px;
+        overflow: hidden;
+    }
+    .imgabout{
+        width: 250px;
+        height: 156px;
+    }
+    .about{
+        height: 440px;
+    }
+}
+@media screen and (max-width:600px){
+    .aboutcontainer{
+        height: 90vh;
+    }
+    h1{
+        font-size: 14px;
+    }
+    .aboutfirst{
+        height: 150px;
+      top:20px;
+      padding: 4px;
+      overflow: hidden;
+    }
+    .abouttwo{
+        font-size: 12px;
+        line-height: 25px;
+        height: 150px;
+        overflow: hidden;
+    }
+    .imgabout{
+        width: 160px;
+        height: 100px;
+        position: relative;
+        left: 0;
+        margin-top: 2px;
+    }
+    .about{
+        /* background-color: red; */
+        height: 360px;
+        padding: 10px;
+        position: relative;
+    }
+}
+

@@ -1,0 +1,73 @@
+[{
+    "id":1,
+    "name":"Kande Pohe",
+    "price": 30,
+    "image":"https://t4.ftcdn.net/jpg/06/82/35/95/240_F_682359543_cV2224GIB8sAEskTJlhGFuTBtGjIFALv.jpg"
+    },
+    {
+        "id":2,
+    "name":"Dosa",
+    "price": 50,
+    "image":"https://t4.ftcdn.net/jpg/04/05/17/93/240_F_405179317_SCBiHuIam7n4LpeGQZVJxuKehh63hKfz.jpg"
+},
+{
+    "id":3,
+    "name":"Upma",
+    "price":40,
+   
+    "image":"https://c.ndtvimg.com/2021-03/2au1mv18_upma_625x300_10_March_21.jpeg"
+},
+{
+    "id":4,
+    "name":"Idali Vada",
+    "price":40,
+    "image":"https://media.istockphoto.com/id/854083542/photo/idli-vada-south-indian-food.jpg?s=612x612&w=0&k=20&c=TF0WWC3oJkm9BeXeRJuOzAzeE6ro-OvisETsxOsihtM="
+},
+{"id":5,
+"price":50,
+    "name":"Pineapple Shira",
+    "image":"https://cdn.dotpe.in/longtail/store-items/5595648/O082Qe48.jpeg"
+},
+{
+    "id":6,
+    "price":50,
+        "name":"Aloo Paratha",
+        "image":"https://thumbs.dreamstime.com/b/indian-breakfast-aloo-paratha-potato-pancakes-served-yogurt-dip-87658775.jpg"
+},
+{
+    "id":7,
+    "price":40,
+    "name":"Sushila",
+    "image":"https://img-global.cpcdn.com/recipes/a9356fb0b6c04f27/680x482cq70/%E0%A4%B8%E0%A4%B6%E0%A4%B2-sushila-recipe-in-marathi-%E0%A4%B0%E0%A4%B8%E0%A4%AA-%E0%A4%9A-%E0%A4%AE%E0%A4%96%E0%A4%AF-%E0%A4%AB%E0%A4%9F.jpg"
+},
+{
+    "id":8,
+    "name":"Shabu Khichadi",
+    "price": 30,
+    "image":"https://png.pngtree.com/png-clipart/20230623/original/pngtree-sabudana-khichri-or-sago-png-image_9205514.png"
+    },
+    {
+        "id": 9,
+    "name":"Thalipeeth",
+    "price": 50,
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAx8Lha-iIOujTAbuITU_gu3DWyYVMhbH_Q&s"
+},
+{
+    "id": 10,
+"name":"Chai Khari",
+"price": 50,
+"image":"https://static.vecteezy.com/system/resources/previews/015/933/231/non_2x/khari-puff-biscuit-or-kharee-puff-pastry-is-an-evergreen-accompaniment-with-chai-indian-snack-free-photo.jpg"
+},
+{
+    "id": 11,
+"name":"Ghavan",
+"price": 50,
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjXGbmIEwiG0RuYKdKpfsZNKh3abUWTM3EOA&s"
+},{
+    "id":12,
+    "name": "Shabudana vada",
+    "price":40,
+    "image":"https://img.freepik.com/premium-photo/indian-famous-street-fasting-recipe-sabudana-vada-sago-fried-cake-with-peanut-curd-chutney_57665-24724.jpg"
+}
+
+]

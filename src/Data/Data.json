@@ -1,0 +1,60 @@
+ [{
+"id":1,
+"imga":"https://img.freepik.com/free-photo/classic-burger-with-beef-cutlet-vegetables-onions-isolated-white-background_123827-29705.jpg?t=st=1717167325~exp=1717170925~hmac=c53abe6ea2828dc3b3e1a95d1cb8675ef765d05bc552caeb1fa5d1c00b832dd4&w=740",
+"price": 60,
+"name": "Burger"
+
+    },
+    {
+"id" : 2,
+"imga":"https://img.freepik.com/premium-photo/isolated-potato-samosa-snacks-white-background-indian-ramadan-food-pakistani-iftar-meal_667286-3247.jpg?w=740",
+"price": 30,
+"name": "samosa"
+    },
+    {
+        "id" : 3,
+        "imga":"https://st2.depositphotos.com/1744187/5192/i/950/depositphotos_51925843-stock-photo-sandwich-isolated-on-white-background.jpg",
+        "price": 40,
+        "name": "Sandwich"
+      
+                },
+                {
+                    "id":4,
+                    "imga":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMRE-2UN65RF9Ogm8IVWW5u8GyBt9mOYprdQ&s",
+                    "price": 30,
+                    "name": "Pohe"
+                },
+                {
+                    "id":5,
+                    "imga":"https://cdn.create.vista.com/api/media/medium/149380498/stock-photo-indian-popular-snack-food-called-vegetable-spring-rolls-or-veg-franky-made-using-vegetables-wrapped?token=",
+                    "price": 160,
+                    "name": "VegFranky5"
+                },
+                {
+                    "id":6,
+                    "imga":"https://media.istockphoto.com/id/1329213718/photo/vada-pav.webp?b=1&s=170667a&w=0&k=20&c=mg_rqOSDW2-UYk6Tk33NjC6gXIcgQ9SWT1W1LsfTnYs=",
+                    "price": 40,
+                    "name": "VadaPav"
+                },
+                {
+                    "id":7,
+                    "imga":"https://i.redd.it/zsqb9vcg7j681.jpg",
+                    "price": 60,
+                    "name": "PuriBhaji"
+                },
+                {
+                    "id":8,
+                    "imga":"https://b.zmtcdn.com/data/dish_photos/56d/18f406dd82159bd6d6be65ddc277356d.jpg",
+                    "price": 30,
+                    "name": "Kachi Dabeli"
+                },
+                {
+                    "id":9,
+                    "imga":"https://st2.depositphotos.com/5653638/11503/i/450/depositphotos_115036694-stock-photo-dhokla-indian-savory-snacks-made.jpg",
+                    "price": 50,
+                    "name": "Dhokala"
+                }
+               
+               
+                
+]

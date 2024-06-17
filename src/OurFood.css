@@ -1,0 +1,257 @@
+.ofhead{
+    color:  #b33939;
+    text-align: center;
+    font-size: 30px;
+    /* padding: 4px; */
+    letter-spacing: 2px;
+    position: relative;
+ /* background-color: aqua; */
+ top: 15px;
+}
+
+.ofname2{
+    margin-top: 15px;
+    padding-top:10px;
+    /* border: 2px solid red; */
+}
+.ofcontainer{
+    position: relative;
+
+   
+  top: 70px;
+    /* height:2700px; */
+   height: 3290px;
+
+    margin:auto;
+    width: 80%;
+   
+    background-color: #ecf0f1;
+
+
+}
+
+.breakclass{
+   
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+    /* flex-direction: row; */
+    background-color: white;
+    padding: 15px;
+  margin: auto;
+    /* column-gap:auto; */
+ width: 95%;
+}
+.head1of{
+   color :#2c2c54;
+margin: 10px;
+letter-spacing: 1.5px;
+font-size: 28px;
+word-spacing: 7px;
+}
+.btpofb{
+    width: 70%;
+     /* margin: auto;  */
+ margin-left: 20px;
+    /* margin: 5px 2px 2px 20px; */
+    font-size: 18px;
+   font-weight: bold;
+    border: 2px solid white;
+    /* height: 35px; */
+    padding: 9px;
+cursor: pointer;
+border-radius: 8px;
+background-color: black;
+color:white;
+margin-top: 10px;
+}
+.btpofb:hover{
+   
+    background-color: white;
+    color:black;
+    border: 2px solid black;
+}
+.ofimg{
+     /* width:100%; */
+    height: 150px; 
+    /* margin-left: 5px; */
+    border: 2px solid darkgray;
+  width:164px;
+    
+}
+.ofcard{
+    /* background-color: #b33939; */
+    height: 290px;
+    width: 170px;
+    /* border : 2px solid orange; */
+    justify-content: space-around;
+    /* flex-direction: column;  */
+    margin-bottom: 30px;
+    align-items: center;
+   margin: 20px 15px 20px 15px;
+  
+}
+.ofcard2{
+    overflow: hidden;
+}
+.ofname{
+   margin: 2px 6px;
+   margin-top: 10px;
+text-align: center;
+font-size: 20px;
+padding: 4px;
+}
+
+.imgl{
+    margin:auto;
+}
+
+@media screen and (max-width:1092px) {
+    .ofcontainer{
+        height: 4300px;
+    }
+    .ofimg{
+        width: 190px;
+    }
+    .ofcard{
+        width: 200px;
+    }
+    
+}
+
+@media screen and (max-width:948px) {
+    .ofcontainer{
+        height: 4300px;
+    }
+    .ofimg{
+        width: 160px;
+       
+    }
+    .ofcard{
+        
+        width: 180px;
+    }
+    
+}
+ @media screen  and (max-width:868px){
+    
+ .ofimg{
+    width: 90px;
+    margin: auto;
+    margin-left: 10px;
+ }
+.btpofb{
+    font-size: 14px;
+}
+ .ofcard{
+    height: 300px;
+    margin: 15px;
+    width: 120px;
+}
+    .ofcontainer{
+        height: 3300px;
+    }
+}
+@media screen  and (max-width:830px){
+    .ofcontainer{
+        height: 4300px;
+    }  
+}
+@media screen  and (max-width:750px){
+    .ofimg{
+        height: 80px;
+        width: 120px;
+        margin: 6px;
+    }
+    .ofcard{
+        height: 190px;
+        margin: 14px;
+        width:130px;
+    }
+    .ofcontainer{
+        height: 3000px;
+    }  
+    .ofname{
+        padding: 0;
+        font-size: 12px;
+        letter-spacing: 2px;
+    } 
+    .btpofb{
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width:664px) {
+   
+    .ofcard{
+        height: 190px;
+        margin: 15px;
+        width:100px;
+    }
+    .ofimg{
+        width: 90px;
+    }
+    .ofcontainer{
+        height: 3000px;
+    }  
+}
+@media screen and (max-width:632px){
+    .ofimg{
+        height: 80px;
+        width: 90px;
+        margin: 6px;
+    }
+    .ofcard{
+        height: 190px;
+        margin: 10px;
+        width:100px;
+    }
+    .ofcontainer{
+        height: 2900px;
+    }  
+    .ofname{
+        padding: 0;
+        font-size: 12px;
+        letter-spacing: 2px;
+    } 
+    .btpofb{
+        font-size: 10px;
+    } 
+}
+@media screen and (max-width:514px){
+    .ofcontainer{
+        height: 4120px;
+    }
+}
+@media screen and (max-width:355px){
+    .ofcontainer{
+        height: 7590px;
+    }
+    .ofcard{
+        width:180px;
+        height: 180px;
+    }
+    .ofimg{
+        width: 140px;
+    }
+    .btpofb{
+        font: 16px;
+        padding: 4px;
+    }
+}
+@media screen and (max-width:320px){
+    .ofcontainer{
+        height: 7900px;
+    }
+    .ofcard{
+        width:180px;
+        height: 190px;
+    }
+    .ofimg{
+        width: 140px;
+    }
+    .btpofb{
+        font: 18px;
+        padding: 7px;
+    }
+}

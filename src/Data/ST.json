@@ -1,0 +1,66 @@
+[{
+    "id":1,
+    "imga":"https://media.istockphoto.com/id/1329213718/photo/vada-pav.webp?b=1&s=170667a&w=0&k=20&c=mg_rqOSDW2-UYk6Tk33NjC6gXIcgQ9SWT1W1LsfTnYs=",
+    "price": 40,
+    "name": "VadaPav"
+},
+{
+    "id":2,
+    "imga":"https://img.freepik.com/fotos-premium/poori-masala-curry-oder-aloo-sabzi-fuer-puri_466689-77506.jpg",
+    "price": 60,
+    "name": "PuriBhaji"
+},
+{
+    "id":3,
+    "imga":"https://b.zmtcdn.com/data/dish_photos/56d/18f406dd82159bd6d6be65ddc277356d.jpg",
+    "price": 30,
+    "name": "Kachi Dabeli"
+},
+{
+    "id":4,
+    "imga":"https://thumbs.dreamstime.com/b/khaman-dhokla-traditional-gujrati-indian-snack-food-dish-home-made-67047168.jpg",
+    "price": 50,
+    "name": "Dhokala"
+},
+{
+    "id":6,
+    "imga":"https://c.ndtvimg.com/2023-06/a6rnonoo_bhel-puri_625x300_07_June_23.jpg?im=FeatureCrop,algorithm=cascade,width=620,height=350?im=FaceCrop,algorithm=dnn,width=1200,height=886",
+    "price": 80,
+    "name": "Bhel"
+},{
+    "id":7,
+    "imga":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Y2Q4NYXXerDL-LQ6b3I0DTKZG8YxDW5w9w&s",
+    "price": 80,
+    "name": "Shira"
+},{
+    "id":8,
+    "imga":"https://t3.ftcdn.net/jpg/04/97/43/14/360_F_497431406_tj3yX8VOQT2VTT0WBhCSnM5J8nP0Nilk.jpg",
+    "price": 80,
+    "name": "Utapa"
+},{
+    "id":9,
+    "imga":"https://thumbs.dreamstime.com/b/group-indian-food-indian-thali-south-indian-thali-south-indian-compleat-meal-south-indian-complete-lunch-indian-food-thali-105552919.jpg",
+    "price":150,
+    "name":"Veg Thali"
+
+},{
+    "id":10,
+    "imga":"https://t4.ftcdn.net/jpg/07/09/50/69/360_F_709506939_k2vXVnwOAcDshrZMU06t16ETyBfPOPLq.jpg",
+    "price":230,
+    "name":"Gujrati Thali"
+},
+{ "id": 11,
+"imga": "https://i.pinimg.com/736x/ca/c9/a3/cac9a3cff4116ee4f0d17ac2f2a5daf9.jpg",
+"price":300,
+"name":"Andhra Thali"
+    },{
+    "id":12,
+    "imga":"https://harpalssokhi.com/wp-content/uploads/2018/04/web-6.jpg",
+    "price":100,
+    "name":"Dal Khichadi"
+},{
+    "id":13,
+    "imga":"https://img.freepik.com/premium-photo/indian-style-food-meal-lunch-white-background_1000823-184631.jpg?w=740",
+    "price":150,
+    "name": "Mini Thali"
+}]
